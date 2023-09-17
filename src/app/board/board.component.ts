@@ -1,5 +1,5 @@
 import { Component, OnInit, Output } from '@angular/core';
-import { retry } from 'rxjs';
+
 
 @Component({
   selector: 'app-board',
